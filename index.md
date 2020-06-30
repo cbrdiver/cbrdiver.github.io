@@ -17,4 +17,4 @@ Actionthriller von Autor und Regisseur Troy Duffy über zwei Brüder aus Boston,
 
 
 
-<a href="dbpg_large_002.jpg" title="BPG" />
+<img src="dbpg_large_002.jpg" title="BPG" />
