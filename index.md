@@ -12,3 +12,7 @@ Actionthriller von Autor und Regisseur Troy Duffy über zwei Brüder aus Boston,
 * Punkt 4
 * Punkt 5
 
+
+*"Oh Mann, benutz doch einmal das Teil zwischen deinen Ohren!"*
+
+*"Wir sind sowas wie 'n Supermarkt: Wir haben nicht immer Kunden, aber stehts geöffnet!"*
